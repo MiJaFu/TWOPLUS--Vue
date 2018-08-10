@@ -1,0 +1,158 @@
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+ul,
+dl,
+dd,
+dt,
+ol,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+ul {
+  list-style: none;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}
+a,
+span,
+p,
+b,
+i,
+em,
+input,
+ul,
+li,
+ol,
+dt,
+dd,
+dl {
+  font-family: '微软雅黑';
+}
+b {
+  font-size: 14px;
+}
+input[type=text],
+select {
+  box-sizing: border-box;
+}
+.frameShade {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 1;
+}
+input,
+select {
+  outline: none !important;
+}
+input,
+select,
+h5,
+span,
+div,
+optgroup,
+option,
+ul,
+li,
+textarea {
+  outline: none !important;
+}
+i {
+  font-style: normal !important;
+}
+iframe {
+  width: 100%;
+  height: 100%;
+  /* box-shadow: 0 0 0 0; */
+  border: none;
+}
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.action {
+  float: right !important;
+}
+.yellow {
+  background-color: #FF9800!important;
+}
+.blueVio {
+  background-color: #7385E6!important;
+}
+.cyan {
+  background-color: #009688!important;
+}
+.red {
+  background-color: #E51C23!important;
+}
+.light-red {
+  background-color: #EC6065!important;
+}
+.purple {
+  background-color: #BD5AFA!important;
+}
+.green {
+  background-color: #8BC34A!important;
+}
+.redviolet {
+  background-color: #FF4081!important;
+}
+.gray {
+  background-color: #cfcfcf!important;
+}
+.deepgray {
+  background-color: #525151!important;
+}
+.yellowTxt {
+  color: #FF9800!important;
+}
+.blueVioTxt {
+  color: #7385E6!important;
+}
+.cyanTxt {
+  color: #009688!important;
+}
+.redTxt {
+  color: #E51C23!important;
+}
+.light-redTxt {
+  color: #EC6065!important;
+}
+.purpleTxt {
+  color: #BD5AFA!important;
+}
+.greenTxt {
+  color: #8BC34A!important;
+}
+.redvioletTxt {
+  color: #FF4081!important;
+}
+.grayTxt {
+  color: #cfcfcf!important;
+}
+.deepgrayTxt {
+  color: #525151!important;
+}
